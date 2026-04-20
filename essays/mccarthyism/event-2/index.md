@@ -33,6 +33,14 @@ From wild origins in the Mexican highlands to cultivation across the globe, geog
 
 Archaeological evidence points to the highlands of central Mexico as the birthplace of chile cultivation. Wild chiles still grow in these regions, their small, intensely hot fruits carried by birds who are immune to capsaicin. The volcanic soils and seasonal rainfall patterns of these areas created ideal conditions for the chile's evolution.
 
+{% include images/figure-wrap.html
+  image-path="../images/figure_1.jpg"
+  image-position="left"
+  image-width="50%"
+  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  text=chile_origins_text
+%}
+
 ## The Rio Grande Valley
 
 When chiles arrived in what is now New Mexico, they found a new home in the Rio Grande Valley. The combination of high elevation, intense sunlight, cool nights, and irrigation from the river created conditions that produced uniquely flavorful chiles.
