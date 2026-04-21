@@ -1,9 +1,9 @@
 ---
 title: "The Warren Court"
 layout: scrollstory-tabs
-header-image: ../images/figure_1.jpg
+header-image: ../images/welch-mccarthy.jpg
 header-title: "McCarthyism"
-thumbnail: ../images/figure_1.jpg
+thumbnail: ../images/welch-mccarthy.jpg
 summary: A chronological journey through the history of chile cultivation and culture.
 tabs:
   - id: overview
