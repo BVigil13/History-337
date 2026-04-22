@@ -7,7 +7,7 @@ thumbnail: ../images/personal-computer.jpg
 summary: The Most Widely Acceptable Standard of Beauty
 tabs:
   - id: overview
-    label: Overview of the PC
+    label: Overview of the makeup industry
     url: ../
 
 
