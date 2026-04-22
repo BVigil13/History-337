@@ -7,19 +7,19 @@ thumbnail: ../images/personal-computer.jpg
 summary: A social and cultural history of the personal computer.
 tabs:
   - id: overview
-    label: Overview of the PC
+    label: Overview of the makeup industry
     url: ../
 
   - id: event-1
-    label: Early Users of Microcomputers
+    label: The Most Acceptable Standard
     url: ../event-1/
 
   - id: event-2
-    label: The Impact of Apple
+    label: Evolving Standards
     url: ../event-2/
 
   - id: event-3
-    label: The Early Internet
+    label: Who is Beautiful? Why?
     url: ../event-3/
     active: true
 ---
