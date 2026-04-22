@@ -39,7 +39,7 @@ The Aztecs called them *chilli*—a word that would travel the world. They appea
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
+  image-path="images/place-holder-image.jpg"
   image-position="left"
   image-width="48%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
@@ -71,7 +71,7 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
+  image-path="images/place-holder-image.jpg"
   image-position="right"
   image-width="45%"
   caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
@@ -96,7 +96,7 @@ But there's also a renaissance. Heirloom chile varieties are being preserved and
 
 The carousel below shows the diversity of modern chile culture:
 
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
+{% assign images_list = "images/place-holder-image.jpg,images/place-holder-image.jpg,images/place-holder-image.jpg" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
 
 **The varieties tell a story:**

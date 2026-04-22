@@ -1,9 +1,9 @@
 ---
 title: "The Most Accepted Standards"
 layout: scrollstory-tabs
-header-image: ../images/personal-computer.jpg
+header-image: ../images/place-holder-image.jpg
 header-title: "The Personal Computer"
-thumbnail: ../images/personal-computer.jpg
+thumbnail: ../images/place-holder-image.jpg
 summary: The Most Widely Acceptable Standard of Beauty
 tabs:
   - id: overview
