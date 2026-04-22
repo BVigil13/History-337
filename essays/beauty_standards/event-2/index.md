@@ -1,26 +1,26 @@
 ---
-title: "The Personal Computer"
+title: "Beauty Standards"
 layout: scrollstory-tabs
-header-image: images/personal-computer.jpg
-header-title: "The Personal Computer"
-thumbnail: images/personal-computer.jpg
-summary: A social and cultural history of the personal computer.
+header-image: images/beauty-is-pain.jpg
+header-title: "What is the Beauty Standard?"
+thumbnail: images/beauty-is-pain.jpg
+summary: A cultural study of the Beauty Standard
 tabs:
   - id: overview
-    label: Overview of the PC
+    label: Overview of the makeup industry
     url: ./
     active: true
 
   - id: event-1
-    label: Early Users of Microcomputers
+    label: The Most Acceptable Standard
     url: event-1/
 
   - id: event-2
-    label: The Impact of Apple
+    label: Evolving Standards
     url: event-2/
 
   - id: event-3
-    label: The Early Internet
+    label: Who is Beautiful? Why?
     url: event-3/
 ---
 
