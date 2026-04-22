@@ -20,7 +20,7 @@ tabs:
     url: event-2/
 
   - id: event-3
-    label: Who is Beautiful? Why?
+    label: What Makeup Means for Beauty
     url: event-3/
 ---
 
