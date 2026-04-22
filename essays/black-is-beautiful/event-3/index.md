@@ -1,10 +1,10 @@
 ---
-title: "The Most Accepted Standards"
+title: "Did This Change Anything for Minorities?"
 layout: scrollstory-tabs
 header-image: ../images/place-holder-image.jpg
-header-title: "The Personal Computer"
+header-title: "Did This Change Anything for Minorities?"
 thumbnail: ../images/place-holder-image.jpg
-summary: The Most Widely Acceptable Standard of Beauty
+summary: When Black women were beginning to be accepted as beautiful, did anything change for other minorities? Did anyone else begin their own movement for their beauty to be recognized?
 tabs:
   - id: overview
     label: The Black is Beautiful Movement
@@ -19,7 +19,7 @@ tabs:
     url: event-2/
 
   - id: event-3
-    label: How did this change life for minorities in relation to beauty?
+    label: Did This Change Anything for Minorities?
     url: event-3/
     active: true
 ---

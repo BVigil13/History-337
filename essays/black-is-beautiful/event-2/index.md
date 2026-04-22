@@ -1,10 +1,10 @@
 ---
-title: "The Most Accepted Standards"
+title: "How Did Makeup Companies React?"
 layout: scrollstory-tabs
 header-image: ../images/place-holder-image.jpg
-header-title: "The Personal Computer"
+header-title: "How Did Makeup Companies React?"
 thumbnail: ../images/place-holder-image.jpg
-summary: The Most Widely Acceptable Standard of Beauty
+summary: With Black women proudly exclaiming that they were beautiful, did makeup companies try to capitalize on this? What sort of new products did they offer if they offered any at all?
 tabs:
   - id: overview
     label: The Black is Beautiful Movement
@@ -20,7 +20,7 @@ tabs:
     active: true
 
   - id: event-3
-    label: How did this change life for minorities in relation to beauty?
+    label: Did This Change Anything for Minorities?
     url: event-3/
 ---
 

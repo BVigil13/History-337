@@ -1,10 +1,10 @@
 ---
-title: "The Personal Computer"
+title: "What Makeup Means for Beauty"
 layout: scrollstory-tabs
-header-image: ../images/personal-computer.jpg
-header-title: "The Personal Computer"
-thumbnail: ../images/personal-computer.jpg
-summary: A social and cultural history of the personal computer.
+header-image: ../images/place-holder-image.jpg
+header-title: "What Makeup Means for Beauty"
+thumbnail: ../images/place-holder-image.jpg
+summary: Makeup and Beauty are almost synonomus in today's society. Was this always the case?
 tabs:
   - id: overview
     label: Overview of the makeup industry
@@ -24,17 +24,9 @@ tabs:
     active: true
 ---
 
-# The Early Internet
+## Where was makeup first created?
 
-From ancient cultivation to modern cuisine, the chile's journey spans thousands of years.
-
-## Ancient History (7500 BCE – 1400 CE)
-
-**~7500 BCE** — Archaeological evidence suggests domestication of chiles begins in Mexico, making them one of the oldest cultivated crops in the Americas.
-
-**~3000 BCE** — Chiles become integrated into Mesoamerican agriculture alongside maize, beans, and squash.
-
-**~1400 CE** — By the height of the Aztec Empire, chiles are essential to cuisine, medicine, and trade. Multiple varieties are cultivated for different purposes.
+**uh... greece?
 
 {% include images/figure-wrap.html
   image-path="../images/place-holder-image.jpg"
@@ -44,7 +36,7 @@ From ancient cultivation to modern cuisine, the chile's journey spans thousands 
   text=chile_origins_text
 %}
 
-## Colonial Era (1492 – 1800)
+## How has Makeup itself changed over the years?
 
 **1492** — Columbus encounters chiles in the Caribbean and mistakenly calls them "peppers," confusing them with black pepper.
 
@@ -54,7 +46,7 @@ From ancient cultivation to modern cuisine, the chile's journey spans thousands 
 
 **1600s–1700s** — Chiles spread through Africa, Asia, and Europe, transforming cuisines worldwide.
 
-## Modern Era (1800 – Present)
+## Why is it important to talk about makeup?
 
 **1912** — Wilbur Scoville develops the Scoville Scale to measure chile heat.
 

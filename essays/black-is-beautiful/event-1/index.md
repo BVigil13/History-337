@@ -1,10 +1,10 @@
 ---
-title: "The Most Accepted Standards"
+title: "How Did Magazine Companies React?"
 layout: scrollstory-tabs
 header-image: ../images/place-holder-image.jpg
-header-title: "The Personal Computer"
+header-title: "How Did Magazine Companies React?"
 thumbnail: ../images/place-holder-image.jpg
-summary: The Most Widely Acceptable Standard of Beauty
+summary: When the Black is Beautiful movement began, did magazine publishing companies modify their issues? Did they start including Black women right away?
 tabs:
   - id: overview
     label: The Black is Beautiful Movement
@@ -20,7 +20,7 @@ tabs:
     url: event-2/
 
   - id: event-3
-    label: How did this change life for minorities in relation to beauty?
+    label: Did This Change Anything for Minorities?
     url: event-3/
 ---
 
