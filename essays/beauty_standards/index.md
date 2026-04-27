@@ -26,30 +26,31 @@ tabs:
 
 # Definining the Beauty Standard of the U.S.A.
 
-Before the Spanish arrived, before the United States existed, before the concept of the Southwest was even imagined, there were chiles. Not the long red ristras you see hanging on gallery walls, not the hot sauces in grocery stores, not even the dried red chile sauce that defines New Mexican cooking. But *chiles*—wild, small, incredibly pungent plants that grew in what is now Mexico and Central America.
+If you ask the average American who they believe the most beautiful woman was or is, you'll get a large variety in answers. Some believe Marilyn Monroe takes the title. Others, Audrey Hepburn or Elizabeth Taylor. More still skew more modern, from Princess Diana to Gigi Hadid. Beauty is completely subjective, and yet it is something intangible that has extreme value in America and the world at large. So how is beauty defined?
 
-The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
+The dictonary definition of beauty is "the quality or groups of qualities in a person or thing that gives pleasure to the senses or the mind," [^dictionary1]
+
+This, however, is still very broad. It can change from person to person. That is why, with this website, magazines from the respective time periods will be the most influential. Magazines are what many people will read and has beauty that people aspire to. For example, one of the most influential magazines is Vogue Magazine, which always has beautiful models, makeup advice, and fashion. Most magazines, even those not on Vogue's level, have similar subjects in their articles. 
+
+[^dictionary1]:https://www.merriam-webster.com/dictionary/beauty
 
 ## Magazines and Their Influence
 
-{% capture chile_origins_text %}
-Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
-
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
+{% capture vogue_magazine %}
+Magazines are very influential, even subtly, on how one percieves the world, espeically today in the modern world. From tabloids labeling women as 'whales' to call them fat in the early 2000s, to Seventeen showing young girls and women the newest makeup tips, magazines are all over the place. Young women and girls are especially susceptible to these, as most magazines related to makeup or fashion are advertized to them specifically. However, that is not to say that people of any gender or sexuality can read and enjoy them. If you look at any random magazine from before 1960, you'll likely see a slim and pale woman with dark eyes. It wasn't until after the Black is Beautiful movement that more women of color began to get spots in magazines, yet even still they are the minority.
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/place-holder-image.jpg"
+  image-path="images/vogue-jan-1950.jpg"
   image-position="left"
   image-width="48%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
-  text=chile_origins_text
+  caption="Vogue Magazine, January Edition, 1950."
+  text=vogue_magazine
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+## But Why is this Important?
 
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
-
+Magazines seem frivolous on the surface, yet they shaped beauty long before TV became mainstream, and their effects can still be felt in the digital world today. 
 
 ## Global Impact of the Beauty Standard?
 
